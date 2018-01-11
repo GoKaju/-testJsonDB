@@ -1,0 +1,24 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "username": "GoKaju",
+        "fullname": "Julian Gomez"
+      },
+      {
+        "id": 1,
+        "username": "Julian",
+        "fullname": "Julian Rojas"
+      }
+    ],
+    "favorites": [
+        {
+      "url": "www.google.co",
+      "user":"Julian"
+    },
+        {
+      "url": "www.facebook.com",
+      "user":"GoKaju"
+    }
+]
+  }
